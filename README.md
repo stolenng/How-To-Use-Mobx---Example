@@ -1,3 +1,23 @@
+
+Demo 
+=====================
+http://mobx-example.georgy-glezer.com/
+
+Example To How To Use Mobx 
+=====================
+* Simple app transforming textarea to upper and lower case.
+* Example of how to work with List and Item(can be applied to every entity :)
+* Seperation of Logic/Data layer and UI Layer
+* Template Model is a -Domain Object- and Template List is a  -Domain Store-
+* Minimum code in compoennts 
+
+* Minimal rendering as mobx utulizes it
+
+![alt text](https://ibb.co/gMKnsR)
+
+
+=====================
+
 mobx-react-boilerplate
 =====================
 
@@ -17,7 +37,3 @@ npm start
 ```
 
 Browser should open automatically. Otherwise, navigate to the URL reported in the terminal
-
-### Credits
-
-* [Mendix](http://github.com/mendix) for providing the opportunity to battle test this approach (we're hiring!).
