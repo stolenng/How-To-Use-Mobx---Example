@@ -13,7 +13,7 @@ Example To How To Use Mobx
 
 * Minimal rendering as mobx utulizes it
 
-![alt text](https://ibb.co/gMKnsR)
+![alt text](https://i.ibb.co/FbTPGDd/Screen-Shot-2019-05-25-at-19-32-00.png)
 
 
 =====================
